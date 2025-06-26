@@ -51,7 +51,7 @@ for(int i = 0; i < list.length; i++) {
 }
 return total;
 ```
-``` `
+````
 
 다음과 같이 적용된다. 
 ```java
